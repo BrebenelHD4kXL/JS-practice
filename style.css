@@ -1,0 +1,23 @@
+body{
+	font: 18px/25px Arial, sans-serif;
+}
+#myCalculator{
+	margin-left: 175px;
+}
+#para6{
+	margin-left: 75px;
+}
+#para7{
+	font-size: 100px;
+}
+#qstn{
+	width: 500px;
+	vertical-align: center;
+}
+#submitqstn{
+	margin-right: 25px;
+	vertical-align: center;
+}
+#para8{
+	display: inline-block;
+}
